@@ -1,6 +1,6 @@
 # PowerBI
 Successfully completed fellowship program for Microsoft Power BI development where I have acquired some real time expertise on the Data Cleaning, visualization with powerful dashboards using Power BI desktop.
-#########
+
 
 - I have used the Superstore dataset for my first POwerBI dashboard creation in the guidance of Growth School.
 - I have created two dashboards in total. One with the overview of the data and the other one with product sales details.
